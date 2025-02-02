@@ -1,0 +1,1 @@
+This project aims to perform Sentiment Analysis on a dataset of customer reviews (amazon_reviews.csv) using Natural Language Processing (NLP) techniques. The objective is to classify the sentiment of reviews as positive or negative using TF-IDF Vectorization for feature extraction and Logistic Regression as the machine learning model.
