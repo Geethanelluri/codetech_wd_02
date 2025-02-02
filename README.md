@@ -1,1 +1,10 @@
-This project aims to perform Sentiment Analysis on a dataset of customer reviews (amazon_reviews.csv) using Natural Language Processing (NLP) techniques. The objective is to classify the sentiment of reviews as positive or negative using TF-IDF Vectorization for feature extraction and Logistic Regression as the machine learning model.
+COMPANY: CODTECH IT SOLUTIONS
+NAME: Nelluri Geetha
+INTERN ID: CT12JIR
+DONAIN: MACHINELEARNING
+
+DURATION: 8 WEEEKS
+
+MENTOR: NEELA SANTOSH
+#output: 
+[Image](https://github.com/user-attachments/assets/a3af9f8f-ec59-4c21-9482-4da696761354)
